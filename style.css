@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://images.pexels.com/photos/194511/pexels-photo-194511.jpeg?cs=srgb&dl=pexels-lalesh-aldarwish-194511.jpg&fm=jpg");
+    background-size: cover;
+    
+}
+.heading{
+    color: beige;
+    margin-top: 300px;
+    margin-left: 600px;
+    font-size: xx-large;
+}
+#start{
+    margin-left: 670px;
+    width: 100px;
+    height: 30px;
+}
+#te{
+    margin-left: 400px;
+}
+.heading1{
+    margin-left: 600px;
+    color: beige;
+}
+#startBox{
+    margin-left: 600px;
+    width: 200px;
+}
+#start{
+    margin-top: 0px;
+    margin-left: 680px;
+}
+#start:hover{
+    cursor: pointer;
+}
+#liv{
+    margin-top: 70px;
+    margin-left: 670px;
+    color: red;
+}
+#liv:hover{
+    cursor: pointer;
+    background: linear-gradient(#948E99,#2E1437);
+}
+#won{
+    margin-top: 50px;
+    margin-left: 670px;
+}
+#Play{
+    margin-top: 10px;
+    margin-left: 680px;
+    color: rgb(240, 26, 26);
+}
